@@ -1,0 +1,13 @@
+# Arquivos gerados pela compilação (o build.bat recria)
+*.obj
+*.exe
+*.pdb
+
+# Arquivos do Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Temporários
+*.tmp
+Thumbs.db
+*.res
