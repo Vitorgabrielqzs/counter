@@ -41,7 +41,7 @@ O Counter conta qualquer coisa (questões resolvidas, copos de água, repetiçõ
 
 ## Como usar
 
-1. Compile o `Counter.exe` (veja **Como compilar**) e abra.
+1. Baixe o `Counter.exe` na página de **[Releases](../../releases/latest)** e abra. Não precisa instalar nada.
 2. O número aparece na bandeja. No Windows 11, ícones novos ficam escondidos dentro da setinha <kbd>^</kbd>: **arraste o número para fora**, ao lado da seta, ou ligue o **Counter** em *Configurações → Personalização → Barra de tarefas → Outros ícones da bandeja do sistema*. O Windows lembra dessa escolha.
 
 | Onde | O que faz |
